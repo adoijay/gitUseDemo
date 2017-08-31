@@ -1,13 +1,13 @@
-﻿package co.jit;
+package co.jit;
 
 /**
  * Hello world!
  *
  */
-public class App
-{s
+public class App 
+{
     public static void main( String[] args )
     {
-        System.out.println( "测试002!" );
+        System.out.println( "001!" );
     }
 }
